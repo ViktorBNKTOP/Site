@@ -56,5 +56,5 @@ ESTRUTURA DAS PÁGINAS
         O usuário acessa o site e conhece rapidamente quem é Karen, suas especialidades e sua forma de atendimento. Conforme navega pela página, o conteúdo é apresentado de maneira fluida e natural, conduzindo-o suavemente pelas seções sem interrupções perceptíveis. Durante a navegação, o site busca transmitir acolhimento, profissionalismo e confiança, para que, ao chegar na área de agendamento, o usuário se sinta seguro e confortável para marcar sua consulta.
 
     Suporte
-        Erick  (31) 99460-2695
-        Victor (31) 92001-6244
+        Erick 
+        Victor 
